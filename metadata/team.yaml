@@ -4,16 +4,16 @@
 # - If your team has 4 members: provide all 4 members.
 
 team:
-  team_id: ""
-  name: ""
+  team_id: "IIT GHATKESAR"
+  name: "SREE SAKETH,AMRUTH REDDY,AYAAN,ESHWAR"
   repository: "" # URL of the newly created GitHub repository for this project
 
 members:
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
-  - name: ""
-    email: ""
+  - name: "SREE SAKETH"
+    email: "sakethsree76@gmail.com"
+  - name: "AYAAN"
+    email: "mohammedayaan1992@gmail.com"
+  - name: "K.ESHWAR"
+    email: "kumarieshwar678@gmail.com"
+  - name: "AMRUTH REDDY"
+    email: "mankenaamruthreddy@gmail.com"
