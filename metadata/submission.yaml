@@ -5,7 +5,7 @@ version: "1.0"
 
 submission:
   team_id: "IIT GHATKESAR"
-  repository: "iitghatkesar.repository"
-  commit_sha: ""
+  repository: "https://github.com/sakethsree-77/BuildSecure"
+  commit_sha: "f6621742aea13d78883f1a22e071f35eb899b9af"
   deployment_url: ""
   submitted_at: ""
