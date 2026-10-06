@@ -9,11 +9,11 @@ Place all relevant infrastructure and deployment configuration files here.
 
 ## Live Deployment Reference
 
-- **Live Application URL:** 
-- **Hosting Platform:** 
+- **Live Application URL:*github.com/sakethsree-77/BuildSecure* 
+- **Hosting Platform:*GitHub Pages* 
 - **Access Credentials (if test demo accounts are needed for evaluators):**
-  - Role / User 1:
-  - Role / User 2:
+  - Role / User 1:Admin:-admin@trustcart.demo
+  - Role / User 2:Customer-register a new account in the app
 
 ---
 
@@ -21,13 +21,7 @@ Place all relevant infrastructure and deployment configuration files here.
 
 Document all required environment configuration keys needed to run the application:
 
-| Variable Name | Description | Required (Yes/No) |
-|---------------|-------------|-------------------|
-| | | |
-| | | |
-
----
-
+|none | Rns fully in the browser ,no API keys  |No |
 ## Build & Deployment Instructions
 
 Provide step-by-step instructions for building and launching the deployment:

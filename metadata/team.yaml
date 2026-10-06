@@ -6,7 +6,7 @@
 team:
   team_id: "IIT GHATKESAR"
   name: "SREE SAKETH,AMRUTH REDDY,AYAAN,ESHWAR"
-  repository: "" # URL of the newly created GitHub repository for this project
+  repository: "https://github.com/sakethsree-77/BuildSecure" # URL of the newly created GitHub repository for this project
 
 members:
   - name: "SREE SAKETH"
