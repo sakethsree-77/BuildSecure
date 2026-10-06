@@ -29,6 +29,6 @@ Document all required environment configuration keys needed to run the applicati
 
 Provide step-by-step instructions for building and launching the deployment:
 
-1. 
-2. 
-3. 
+1. Open docs/index.html in any browser. No install is needed.
+2. To host it, go to GitHub Settings, then Pages, and choose branch main and folder /docs.
+3. The live app is at https://sakethsree-77.github.io/BuildSecure/ 
