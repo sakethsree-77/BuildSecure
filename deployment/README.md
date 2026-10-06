@@ -21,7 +21,10 @@ Place all relevant infrastructure and deployment configuration files here.
 
 Document all required environment configuration keys needed to run the application:
 
-|none | Rns fully in the browser ,no API keys  |No |
+| Variable Name | Description | Required (Yes/No) |
+|---------------|-------------|-------------------|
+| None | Runs fully in the browser, no API keys | No |
+
 ## Build & Deployment Instructions
 
 Provide step-by-step instructions for building and launching the deployment:
